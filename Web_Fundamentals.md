@@ -304,7 +304,7 @@ IP-адрес идентифицирует хост в сети, порт — к
 *  работает поверх IP
 *  используется при отправке файлов, почты, при работе веб-серверов: там, где требуется гарантировать корректность переданных данных.
 
-[отличное видео про tcp/ip]((https://youtu.be/EJzitviiv2c?si=XlwYL7yNEDiATaeb)
+[отличное видео про tcp/ip](https://youtu.be/EJzitviiv2c?si=XlwYL7yNEDiATaeb)
 
 # UDP — User Datagram Protocol
 
