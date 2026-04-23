@@ -304,6 +304,7 @@ IP-адрес идентифицирует хост в сети, порт — к
 *  работает поверх IP
 *  используется при отправке файлов, почты, при работе веб-серверов: там, где требуется гарантировать корректность переданных данных.
 
+[отличное видео про tcp/ip]((https://youtu.be/EJzitviiv2c?si=XlwYL7yNEDiATaeb)
 
 # UDP — User Datagram Protocol
 
@@ -457,4 +458,16 @@ Cам по себе HTTP не может запомнить состояние -
 нужен для ускорения получения доступа к информации; 
 временно хранит информацию, чтобы ускорить доступ к ней при повторных запосах.
   
+</details>
+
+<details>
+<summary>API</summary>
+
+.
+
+An **application programming interface** is a connection between computers or between computer programs. 
+It is a type of software interface.
+
+[лучшее видео про api, которое я видела] (https://youtu.be/lH2a0A6NO34?si=GOgmfpm7_fsBSZa6)
+
 </details>
